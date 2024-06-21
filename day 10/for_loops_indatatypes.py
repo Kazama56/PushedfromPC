@@ -19,5 +19,3 @@ for each in data:
     result *= each
 
 print(result)
-
-#hyperx esports
